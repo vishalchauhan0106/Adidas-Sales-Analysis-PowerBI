@@ -69,7 +69,7 @@ Adidas management requires a centralized dashboard to:
 5. Men's Street Footwear generated the highest sales.
 6. West Gear was the top-performing retailer.
 ---
-![Dashboard Overview](Images/Dashboard_Overview.png)
+![Dashboard Overview](Dashboard_Screenshot.png)
 ## Repository Structure
 
 ```text
